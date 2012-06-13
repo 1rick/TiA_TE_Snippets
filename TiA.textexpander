@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupInfo</key>
+	<dict>
+		<key>expandAfterMode</key>
+		<integer>0</integer>
+		<key>groupName</key>
+		<string>TiA</string>
+	</dict>
+	<key>snippetsTE2</key>
+	<array>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,ll</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-06-13T03:55:07Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>liveblog</string>
+			<key>modificationDate</key>
+			<date>2012-06-13T03:56:07Z</date>
+			<key>plainText</key>
+			<string>&lt;a name="%1I:%M"&gt;&lt;/a&gt;&lt;a href="#%1I:%M"&gt;#%1I:%M&lt;/a&gt;:  </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>CE833281-A599-4E2B-8877-D6C282994BF9</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,border</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-05-31T10:33:47Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>border</string>
+			<key>lastUsed</key>
+			<date>2012-06-12T14:23:48Z</date>
+			<key>modificationDate</key>
+			<date>2012-05-31T10:34:02Z</date>
+			<key>plainText</key>
+			<string>style="border: 1px solid grey;" </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>3</integer>
+			<key>uuidString</key>
+			<string>A476D4BA-F43B-49E2-8354-92B495960899</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,ft</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-04-18T13:56:34Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>footnote</string>
+			<key>lastUsed</key>
+			<date>2012-04-18T13:58:46Z</date>
+			<key>modificationDate</key>
+			<date>2012-05-31T10:34:24Z</date>
+			<key>plainText</key>
+			<string>[^%fill:ftname%] %|
+
+[^%fill:ftname%]: %fill:notes%</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>9EF66F1D-DEE0-48FD-8B68-DE03FCC08FAA</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,abbr</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-04-18T13:50:55Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>abbr</string>
+			<key>lastUsed</key>
+			<date>2012-06-13T03:40:47Z</date>
+			<key>modificationDate</key>
+			<date>2012-05-31T10:33:02Z</date>
+			<key>plainText</key>
+			<string>&lt;abbr style="cursor: help; border-bottom: 1px dashed;" title="%fill:hovertext%"&gt;%fill:text%&lt;/abbr&gt; </string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>2</integer>
+			<key>uuidString</key>
+			<string>EF6D2F39-E198-4D2F-8126-6490CDD699AF</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,table</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-04-18T13:49:48Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>table 1 column 1 row</string>
+			<key>modificationDate</key>
+			<date>2012-05-31T10:33:07Z</date>
+			<key>plainText</key>
+			<string>&lt;table width="100%" border="0" cellspacing="0" cellpadding="0"&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;
+
+##add content here##
+
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt; 
+
+%|</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>A4723860-2744-4EA6-B8BF-95BAF5AEBEB8</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,tref</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-04-18T13:47:38Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>tag reference link</string>
+			<key>modificationDate</key>
+			<date>2012-05-31T10:33:13Z</date>
+			<key>plainText</key>
+			<string>[%fill:tag&amp;][%fill:tag%] %|
+
+[%fill:tag%]: http://www.techinasia.com/tag/%fill:tag% "articles tagged %fill:tag%"</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>46706A30-A1F7-49AB-8873-B6CC8A84A4C6</string>
+		</dict>
+		<dict>
+			<key>abbreviation</key>
+			<string>,,tlink</string>
+			<key>abbreviationMode</key>
+			<integer>0</integer>
+			<key>creationDate</key>
+			<date>2012-04-18T13:35:30Z</date>
+			<key>flags</key>
+			<integer>0</integer>
+			<key>label</key>
+			<string>tag link</string>
+			<key>modificationDate</key>
+			<date>2012-05-31T10:33:22Z</date>
+			<key>plainText</key>
+			<string>[%fill:tag%](http://www.techinasia.com/tag/%fill:tag% "articles tagged %fill:tag%") %|</string>
+			<key>snippetType</key>
+			<integer>0</integer>
+			<key>useCount</key>
+			<integer>0</integer>
+			<key>uuidString</key>
+			<string>EECB5CA2-74B6-4DE2-83E9-D226C9EAF48C</string>
+		</dict>
+	</array>
+</dict>
+</plist>
